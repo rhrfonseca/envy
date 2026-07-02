@@ -1,6 +1,6 @@
 # envy
 
-Substitute `${ENV_VARS}` in a YAML file using values from your environment or dotenv files, following the same precedence as the [dotenv Ruby gem](https://github.com/bkeepers/dotenv).
+Substitute `${ENV_VARS}` in a YAML file using values from your environment or dotenv files.
 
 ## Installation
 
